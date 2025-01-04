@@ -2,7 +2,10 @@
 ```markdown
 # Projeto Python - Exemplos de Funcionalidades
 
-Este repositório contém diversos exemplos de código Python que demonstram funcionalidades específicas, incluindo manipulação de arquivos, geração de números aleatórios, manipulação de data e hora, e muito mais. O objetivo deste repositório é fornecer exemplos práticos de como usar algumas das bibliotecas padrão do Python.
+Este repositório contém diversos exemplos de código Python que demonstram funcionalidades específicas,
+incluindo manipulação de arquivos, geração de números aleatórios,
+manipulação de data e hora, e muito mais.
+O objetivo deste repositório é fornecer exemplos práticos de como usar algumas das bibliotecas padrão do Python.
 
 ## Estrutura do Projeto
 
